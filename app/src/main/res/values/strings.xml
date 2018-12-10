@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">SplashDemo</string>
+  <string name="applied_informatics">Applied Informatics</string>
+  <string name="open_app_again">Open App Again</string>
+</resources>
